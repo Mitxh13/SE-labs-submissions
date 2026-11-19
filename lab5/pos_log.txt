@@ -1,0 +1,5 @@
+Receipt #7852 total=126.00
+Receipt #8935 total=838.95
+Receipt #9961 total=-630.00
+Receipt #3979 total=0.00
+Receipt #0001 total=126.00

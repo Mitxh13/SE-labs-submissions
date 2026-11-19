@@ -1,0 +1,6 @@
+************* Module pos_system
+pos_system.py:106:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.85/10 (previous run: 5.65/10, +4.19)
+
